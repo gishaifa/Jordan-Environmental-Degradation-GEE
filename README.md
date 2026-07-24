@@ -1,0 +1,1 @@
+# Jordan-Environmental-Degradation-GEE
