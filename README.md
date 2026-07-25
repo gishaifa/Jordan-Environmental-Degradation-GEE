@@ -1,5 +1,4 @@
-#  Jordan Environmental & Land Degradation Assessment Platform (GEE)
-
+# 🌍 Jordan Environmental & Land Degradation Assessment Platform (GEE)
 An automated cloud-computing framework built on **Google Earth Engine (GEE)** to analyze, monitor, and assess national-level environmental indicators and land degradation trajectories across **Jordan (2018–2025)**.
 ## 📌 Overview
 This repository contains a high-resolution, satellite-based monitoring framework for assessing **Land Use & Land Cover (LULC)**, vegetation health, soil organic carbon (SOC) dynamics, and overall environmental degradation across **Jordan**. 
