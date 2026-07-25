@@ -5,7 +5,7 @@
 [![SDG Alignment](https://img.shields.io/badge/SDG-15.3.1%20Land%20Degradation%20Neutrality-orange)](https://www.unccd.int/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An automated cloud-computing framework built on **Google Earth Engine (GEE)** to analyze, monitor, and assess national-level environmental indicators and **Land Degradation Neutrality (LDN)** trajectories across **Jordan (2018–2025)**.
+An automated cloud-computing framework built on **Google Earth Engine (GEE)** to analyze, monitor, and assess national-level environmental indicators and **Land Degradation (LD)** trajectories across **Jordan through 2025 **.
 
 ---
 
