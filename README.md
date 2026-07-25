@@ -1,4 +1,4 @@
-# 🌍 Jordan Environmental & Land Degradation Assessment Platform (LDN DSS)
+# 🌍 Jordan Environmental & Land Degradation Assessment Platform (LDAP)
 
 [![Platform](https://img.shields.io/badge/Google%20Earth%20Engine-JavaScript-blue?logo=googleearthengine&logoColor=white)](https://earthengine.google.com/)
 [![Data Source](https://img.shields.io/badge/Satellite-Sentinel--2%20MSI%20(10m)-green)](https://sentinels.copernicus.eu/)
@@ -17,7 +17,7 @@ This platform serves as an advanced geospatial Decision Support System (DSS) pro
 * **🌱 Soil Organic Carbon (SOC) Dynamics:** Monitors proxy changes in soil organic carbon tailored for arid and semi-arid environments.
 * **🌿 Vegetation Productivity Trajectories:** Conducts multi-temporal anomaly detection (NDVI/SAVI) to map vegetation health under climatic stresses.
 * **🗺️ Land Cover & Surface Dynamics (LULC):** Evaluates high-resolution satellite composites to track agricultural development versus degraded land.
-* **🌍 Integrated LDN Synthesis:** Combines spatial sub-indicators to deliver dynamic, national-scale land degradation priority maps.
+* **🌍 Integrated LD Synthesis:** Combines spatial sub-indicators to deliver dynamic, national-scale land degradation priority maps.
 
 ---
 
